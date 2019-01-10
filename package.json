@@ -1,0 +1,25 @@
+{
+    "name": "twitter-es",
+    "version": "1.0.0",
+    "description": "Script for pushing songs posted to twitter by mopidy-twiiter to elastic search",
+    "main": "twitter-es.js",
+    "dependencies": {},
+    "devDependencies": {
+      "elasticsearch": "^15.3.0",
+      "twitter": "^1.7.1"
+    },
+    "scripts": {
+      "start": "node twitter-es.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/keithjbrownuk/twitter-es.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/keithjbrownuk/twitter-es/issues"
+    },
+    "homepage": "https://github.com/keithjbrownuk/twitter-es#readme"
+  }
+  
